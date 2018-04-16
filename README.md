@@ -1,0 +1,1 @@
+Start the JSON Server from https://github.com/brendanmacdonald/frisby_sample before running the tests.
